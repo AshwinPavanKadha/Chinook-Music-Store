@@ -1,5 +1,7 @@
-# Chinook-Music-Store
-A Case study on Chinook Music Store data To derive insights about popular Playlist,  Track , Album , Artist, MediaType, Genre based on customers' regionwise purchase through  Invoice, Customer, Also analyzed about Employee's performance in the store and their service to customer based on their support to customers
+# Chinook-Music-Store: Aims to provide comprehensive insights into various aspects
+A Case study on Chinook Music Store data To derive insights about popular Playlist, Genre based on customers' regionwise purchase through  Invoice, Customer, Also analyzed about Employee's performance in the store and their service to customer based on their support to customers
+
+This analysis aims to provide comprehensive insights into various aspects of the Chinook Music Store dataset, enabling informed decisionmaking and strategy development for the business.
 
 
 Digital Music Store - Data Analysis
